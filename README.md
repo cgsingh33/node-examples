@@ -1,3 +1,3 @@
 # node-examples
-node files
-creating a project
+node files for
+creating a mini project using nodejs
