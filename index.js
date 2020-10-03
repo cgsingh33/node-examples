@@ -1,3 +1,5 @@
+#mainpage
+
 var rect= require('./rectangle');
 
 function solveRect(l,b) {
