@@ -47,6 +47,6 @@ const server = http.createServer((req,res) => {
 })
 //to start the server
 server.listen(port, hostname, ()=> {
-    console.log(`Server runnning at http://${hostname}: ${port}`) //`` is used when we want to to print the value of the variable
+    console.log(`Server runnning at http://${hostname}: ${port}`) //`` is used when we want to to print the value of the variable in java Script
                                                                     
 })
